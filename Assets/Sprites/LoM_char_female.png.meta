@@ -107,6 +107,18 @@ TextureImporter:
   - first:
       213: 9206999358188244897
     second: LoM_char_female_34
+  - first:
+      213: -3812728386115165995
+    second: LoM_char_female_35
+  - first:
+      213: -7461236400198697694
+    second: LoM_char_female_36
+  - first:
+      213: -2992883241246434849
+    second: LoM_char_female_37
+  - first:
+      213: 6460754045019393982
+    second: LoM_char_female_38
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
